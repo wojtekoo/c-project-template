@@ -1,20 +1,3 @@
-/*
- * ============================================================================
- *
- *       Filename:  main.c
- *
- *    Description:  Main execution of the tests using cmocka
- *
- *        Created:  04/28/2016 19:21:37
- *       Compiler:  gcc
- *
- *         Author:  Gustavo Pantuza
- *   Organization:  Software Community
- *
- * ============================================================================
- */
-
-
 #include <stdarg.h>
 #include <stddef.h>
 #include <setjmp.h>
